@@ -6,7 +6,7 @@ Castaway or Escape Mod
 Adds 2 new scenarios into the game.
 -installation
 
-1. Download the zip from zippy https://www62.zippyshare.com/v/XpTQKdP0/file.html
+1. Download the zip
 
 2. Extract the zip
 
