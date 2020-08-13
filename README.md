@@ -27,6 +27,10 @@ you start on a crashed plane with lots of zombies
 
 your cabin is just sorrounded with zombies goodluck escaping them!.
 
+-The Graceyard Scenario
+
+you start either on the cemetery itself or near it.
+
 -issues
 When you start up the castaway scenario you get “not good starting location” error i will try to fix but for now simply ignore the error.
 
