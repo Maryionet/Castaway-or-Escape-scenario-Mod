@@ -2,8 +2,8 @@
 
 Do you want to be on a island with no prison or escape a cabin while being followed by hungry zombies like in 28 weeks later? Then this mod is for you!.
 
-Castaway or Escape Mod 1.3 The Airline Update
-Adds 3 new scenarios into the game.
+Castaway or Escape Mod 1.4 The Airline Update
+Adds 4 new scenarios into the game.
 -installation
 
 1. Download the zip
