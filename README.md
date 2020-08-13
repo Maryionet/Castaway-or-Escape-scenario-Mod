@@ -27,7 +27,7 @@ you start on a crashed plane with lots of zombies
 
 your cabin is just sorrounded with zombies goodluck escaping them!.
 
--The Graceyard Scenario
+-The Graveyard Scenario
 
 you start either on the cemetery itself or near it.
 
