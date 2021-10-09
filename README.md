@@ -32,7 +32,7 @@ your cabin is just sorrounded with zombies goodluck escaping them!.
 you start either on the cemetery itself or near it.
 
 -issues
-When you start up the castaway scenario you get “not good starting location” error i will try to fix but for now simply ignore the error.
+When you start up the castaway scenario you get “not good starting location” error i will try to find a fix for it but for now simply ignore the error.
 
 -Additional Message and plans
 i will try to add more scenarios in the future.
